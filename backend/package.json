@@ -1,0 +1,11 @@
+{
+  "name": "logo-quiz-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "mysql2": "^3.0.0"
+  }
+}
