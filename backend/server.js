@@ -8,9 +8,9 @@ app.use(express.json());
 
 const DB_CONFIG = {
   host: "localhost",
-  user: "root",
-  password: "",
-  database: "quiz2"
+  user: "infoverseny",
+  password: "Tanulo123!",
+  database: "infoverseny"
 };
 
 app.get('/api/logos', async (req, res) => {
